@@ -3,7 +3,6 @@ import java.util.*;
 class Customer {
     private String name;
     private int id;
-    private String date;
     private String location;
     private long contact;
     private ArrayList<String> appointment_placed;
